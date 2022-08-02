@@ -1,2 +1,0 @@
-# TODO
-[when to useMemo and useCallback](https://kentcdodds.com/blog/usememo-and-usecallback)
