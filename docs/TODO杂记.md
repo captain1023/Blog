@@ -4,6 +4,9 @@
 # JS
 [用js写一个js解释器](https://juejin.cn/post/6898093501376905230)
 [js内存管理](https://juejin.cn/post/6892780053005139982)
+[js引擎加载原理](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf)
+[js事件循环](https://www.bilibili.com/video/BV1K4411D7Jb/?vd_source=821815a8725dd0b8ff7e61911883414b)
+[ Visualizing memory management in V8 Engine (JavaScript, NodeJS, Deno, WebAssembly)](https://deepu.tech/memory-management-in-v8/)
 
 # TS
 [Ts的另一面,类型变成](https://juejin.cn/post/6989796543880495135)
@@ -15,16 +18,24 @@
 [Facebook 重构：抛弃 Sass / Less ，迎接原子化 CSS 时代](https://juejin.cn/post/6917073600474415117#heading-12)
 [你可能不太熟知的布局技巧](https://fed.taobao.org/blog/taofed/do71ct/cia993/?spm=taofed.blogs.blog-list.8.7f835ac8TdAyvp)
 [CSS硬件加速](https://juejin.cn/post/6844903649974435854)
+[css布局 - 垂直居中布局的一百种实现方式（更新中...）](https://cloud.tencent.com/developer/article/1343982)
+[CSS的提示与窍门](https://www.w3.org/Style/Examples/007/center.zh_CN.html)
+[面试官：你了解过移动端适配吗](https://juejin.cn/post/6844903631993454600)
+[Retina屏的移动设备如何实现真正1px的线？](https://jinlong.github.io/2015/05/24/css-retina-hairlines/)
 [CSS曲线]
 https://easings.net/#
 https://developer.mozilla.org/zh-CN/docs/Web/CSS/easing-function
 https://cubic-bezier.com/#.17,.67,.83,.67
 
 # 浏览器原理
-[how browser works](https://web.dev/howbrowserswork/#Introduction)
+[how browser works](https://web.dev/howbrowserswork/#Introduction)http://taligarsiel.com/Projects/howbrowserswork1.htm
+[How browsers work](https://web.dev/howbrowserswork/#Introduction)
+[rendering performance](https://web.dev/rendering-performance/)
+[The Anatomy of a Frame](https://aerotwist.com/blog/the-anatomy-of-a-frame/)
 [前端鉴权必须了解的 5 个兄弟：cookie、session、token、jwt、单点登录](https://mp.weixin.qq.com/s/-LcihJFRMbNFmREg0fZSRw)
 [像素的一生—浏览器渲染流水线简述](https://mp.weixin.qq.com/s/sqcXuvHkIMRCeELCD33RBw)
-
+[浏览器渲染详细过程：重绘、重排和 composite 只是冰山一角](https://juejin.cn/post/6844903476506394638)
+[深入解析webkit](https://ming1016.github.io/2017/10/11/deeply-analyse-webkit/)
 # Babel
 [【源码解析+代码实现】一篇文章搞定 babel-plugin-import 插件](https://mp.weixin.qq.com/s?__biz=MzIxNjgwMDIzMA==&mid=2247487763&idx=1&sn=d821b7580fdade57695e61b210b7d937&chksm=9782df9aa0f5568c5ae2bcd23ddc36642c167cc123d29d2a8e50a7d39dc21abe7004cada42cd&scene=27#wechat_redirect)
 [一文搞清楚前端 polyfill](https://juejin.cn/post/6844903877418942478)
@@ -76,7 +87,7 @@ https://cubic-bezier.com/#.17,.67,.83,.67
 [Web Worker 文献综述](https://zhuanlan.zhihu.com/p/162660315)
 [前端性能优化4大环节最佳实践与研发流程](https://mp.weixin.qq.com/s/PyRS-Ar083hAzyUKCqDgow)
 [探索Table组件虚拟化](https://mp.weixin.qq.com/s/X2b4ewT-99HdNuC1Wg-Tew)
-
+[有意思的内存泄露](https://mp.weixin.qq.com/s/L4Vq7BhjuAw7WBY7sV2ICw)
 # 体验优化
 [【秘技】增强型的 <input type=number>](https://mp.weixin.qq.com/s/qJkOaZSySD8hJJsUjx1gYw)
 [精细化场景下 Dark Mode 与主题皮肤的通用解决方案](https://mp.weixin.qq.com/s/a3K0MmKEhOwYNkPdiZLmIw)
@@ -95,9 +106,23 @@ https://cubic-bezier.com/#.17,.67,.83,.67
 [滨江前端沙龙分享：前端团队研发效能提升的探索与实践](https://www.yuque.com/lizhiyao/dxydance/kikle8)
 [滴滴开源 LogicFlow：专注流程可视化的前端框架](https://mp.weixin.qq.com/s/FXPbQAV2onV2NeX9Eefofg)
 [前端性能工程化专题](https://fe-perf.web.bytedance.net/#/)
+[今日头条品质优化 - 图文详情页秒开实践](https://juejin.cn/post/6876011410061852680#heading-7)
 # React组件库
 [React 组件库 CSS 样式方案分析](https://zhuanlan.zhihu.com/p/513843865?utm_source=wechat_session&utm_medium=social&utm_oi=769958994952343552)
 [从业务组件库看前端工程化](https://juejin.cn/post/7070022440079851527)
 [简单又好用的前端深色模式和主题化开发方案](https://mp.weixin.qq.com/s/9qaiGrpOiidiBS3784tzTg)
 [组件库通用样式设计总结](https://juejin.cn/post/6844903634870730766)
 [基于 Web Components 跨框架组件开发实践，告别重复轮子](https://mp.weixin.qq.com/s?__biz=MzkyOTIxMDAzNw==&mid=2247486083&idx=1&sn=843d6c6c0edd89b2513fe4dff27ec5e5&source=41#wechat_redirect)
+
+
+# SSR
+[阿里SSR分享](https://github.com/zhangyuang/2020-NodeParty-PPT/blob/master/2021SSR%E6%A1%86%E6%9E%B6%E5%88%86%E4%BA%AB.pdf)
+
+# 要学的知识点
+1. 流式渲染
+2. bigpipe性能优化 facebook
+3. SSR
+4. http http2 http3 http的压缩算法
+5. 计算机网络TCP,丢包降速,丢包再降速,现在浏览器丢包不一定是是拥塞导致的,比如网络节点性能,满载,换个节点而不是降速,策略丢包模式
+
+# 需要总结的点:

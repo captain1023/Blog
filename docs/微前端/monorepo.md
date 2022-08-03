@@ -22,12 +22,6 @@ workspace是设置包架构的一种新方式.他的目的是更方便地使用m
 
 同时package1 和package2也被提升到了根node_modules中,这就是monorepo的workspace能让你像正常npm包一样使用其他子项目的秘密.同时`node_modules`中的子项目软链到packages/目录,所以被依赖子项目的代码变化也会实时更新到依赖子项目中.比如想在package-1中调试package-2,只需要在`package-1`的`package.json`文件中加上`package-2`依赖就ok了,完全不用npm link等工具
 
-## rush
-
-## learn
-
-## turboRepo
-
 ## pnpm[原文](https://juejin.cn/post/6932046455733485575)
 
 1. pnpm 本质上就是一个包管理器，这一点跟 npm/yarn 没有区别，但它作为杀手锏的两个优势在于:包安装速度极快,磁盘空间利用非常高效
@@ -95,3 +89,25 @@ node_modules
 pnpm这种依赖管理的方式也很巧妙的规避了**非法访问依赖**的问题,就是只要一个包未在`package.json`中声明依赖,那么在项目中是无法访问的(为啥?)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## rush
+
+## learn
+
+## turboRepo
