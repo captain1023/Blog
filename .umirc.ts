@@ -1,7 +1,7 @@
 import { defineConfig } from 'dumi';
 
 export default defineConfig({
-  title: 'myapp',
+  title: 'Shawn Blog',
   favicon:
     'https://raw.githubusercontent.com/captain1023/picGo/master/img/20220807182212.png',
   logo: 'https://raw.githubusercontent.com/captain1023/picGo/master/img/20220807182212.png',
